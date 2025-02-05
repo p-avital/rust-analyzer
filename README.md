@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/rust-analyzer/rust-analyzer/master/assets/logo-wide.svg"
+    src="https://raw.githubusercontent.com/rust-lang/rust-analyzer/master/assets/logo-wide.svg"
     alt="rust-analyzer logo">
 </p>
 
@@ -13,8 +13,9 @@ https://rust-analyzer.github.io/manual.html#installation
 
 ## Documentation
 
-If you want to **contribute** to rust-analyzer or are just curious about how
-things work under the hood, check the [./docs/dev](./docs/dev) folder.
+If you want to **contribute** to rust-analyzer check out the [CONTRIBUTING.md](./CONTRIBUTING.md) or
+if you are just curious about how things work under the hood, check the [./docs/dev](./docs/dev)
+folder.
 
 If you want to **use** rust-analyzer's language server with your editor of
 choice, check [the manual](https://rust-analyzer.github.io/manual.html) folder.
